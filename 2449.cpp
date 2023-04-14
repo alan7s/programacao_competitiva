@@ -1,4 +1,4 @@
-#PROBLEMA: 2449 - Fechadura
+//PROBLEMA: 2449 - Fechadura
 #include <iostream>
 #include <vector>
  
