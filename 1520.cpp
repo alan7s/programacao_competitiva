@@ -1,4 +1,4 @@
-#PROBLEMA: 1520 - Parafusos e Porcas
+//PROBLEMA: 1520 - Parafusos e Porcas
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
