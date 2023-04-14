@@ -1,4 +1,4 @@
-#Problema:  3068 - Meteoros
+#PROBLEMA:  3068 - Meteoros
 teste = 0
 while True:
     entrada = input().split()
