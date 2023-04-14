@@ -1,2 +1,2 @@
 # programacao_competitiva
-Exercícios
+Exercícios beecrowd (URI)
